@@ -2,7 +2,7 @@ package myprojectapp.myprojectapp;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.widget.TextView;
+
 
 public class MainActivity extends AppCompatActivity {
 
@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         //111111
         //我是程序员b写的
         //我是程序员a写的
+
     }
 }
